@@ -1,0 +1,17 @@
+.Blog ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.Blog li {
+  display: inline-block;
+  margin: 2rem;
+}
+
+.Blog a {
+  text-decoration: none;
+}
+
+.Active {
+  color: darkorange;
+}

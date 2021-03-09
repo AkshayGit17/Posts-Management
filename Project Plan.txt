@@ -1,0 +1,12 @@
+1.Project Setup
+
+2.Configure Firebase
+
+3.Configure Routing
+
+4.Create components with dummy content.
+
+5.Connect components to the routes.
+
+6.Posts 
+    ->Post 
