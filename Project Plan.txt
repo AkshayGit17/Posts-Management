@@ -10,3 +10,21 @@
 
 6.Posts 
     ->Post 
+
+7.New Post 
+    ->Form
+        ->Design
+        ->Validation
+        ->Submission
+
+8.Storing data in Firebase
+
+9.Fetching data from Firebase on page load /posts and populate
+
+10.Delete Posts
+
+11.Upload Image
+
+12.View Post
+
+13.Error Handling

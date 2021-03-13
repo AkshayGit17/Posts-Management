@@ -4,7 +4,7 @@ import classes from './PostImage.module.css';
 
 function PostImage() {
   return (
-    <div>
+    <div class={classes.PostImage}>
       <img src={postImage} alt='post image' />
     </div>
   );
